@@ -113,24 +113,16 @@
       "inet4_address": "172.19.0.1/30",
       "stack": "system",
       "sniff": true,
+      "sniff_override_destination": false,
       "auto_route": true,
-      "sniff_override_destination": false,
-      "gso": false
-    },
-    {
-      "type": "tproxy",
-      "tag": "tproxy-in",
-      "listen": "::",
-      "listen_port": 9888,
-      "sniff_override_destination": false,
-      "sniff": true
-    },
-    {
-      "type": "direct",
-      "tag": "dns-in",
-      "listen": "::",
-      "listen_port": 53,
-      "sniff": true
+      "gso": false,
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 8888
+        }
+      }
     }
   ],
   "outbounds": [
