@@ -332,7 +332,7 @@
         "format": "binary",
         "download_detour": "Proxy",
         "tag": "GeoIP2-CN",
-        "url": "https://wiki.jokin.uk/cnip2.srs"
+        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs"
       },
       {
         "type": "remote",
