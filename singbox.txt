@@ -2666,7 +2666,7 @@
       {
         "tag": "customized-cn",
         "type": "remote",
-        "format": "source",
+        "format": "binary",
         "url": "https://raw.githubusercontent.com/kooluko/clash/refs/heads/main/cn.list",
         "download_detour": "direct"
       }
