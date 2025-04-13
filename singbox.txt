@@ -467,7 +467,7 @@
     },
     {
       "tag": "HongKong",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "🇭🇰 Hong Kong Chai Wan MEGA-i 10GE0/0/23 DELLR6515 F39",
         "🇭🇰 Hong Kong Chai Wan MEGA-i 10GE0/0/27 DELLR640 F40",
@@ -513,7 +513,7 @@
     },
     {
       "tag": "TaiWan",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "🇹🇼 Taiwan Hsinchu Zhubei 1GE0/0/0 DL360G10 F17",
         "🇹🇼 Taiwan Hsinchu Zhubei 1GE0/0/1 DL360G10 F18",
@@ -539,7 +539,7 @@
     },
     {
       "tag": "Singapore",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/0 DELLR650 F01",
         "🇸🇬 Singapore Central Queenstown EQSG1 100GE0/0/1 DELLR650 F02",
@@ -555,7 +555,7 @@
     },
     {
       "tag": "Japan",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "🇯🇵 Japan Osaka Nishi Ward EQOS1 25GE0/0/10 DELLR650 F19",
         "🇯🇵 Japan Osaka Nishi Ward EQOS1 25GE0/0/15 DELLR650 F20",
@@ -582,7 +582,7 @@
     },
     {
       "tag": "America",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
         "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
