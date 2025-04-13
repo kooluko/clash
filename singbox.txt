@@ -584,21 +584,6 @@
       "tag": "America",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
-        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/2 DELLR630 F03",
-        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/3 DELLR630 F04",
-        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/4 DELLR620 F05",
-        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/0 DELLR620 F01",
-        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/1 DELLR620 F02",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/0 DELLR660 F01",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/1 DELLR660 F02",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/2 DELLR660 F03",
@@ -609,6 +594,33 @@
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/7 DELLR650 F08",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/8 DELLR650 F09",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10"
+      ]
+    },
+    {
+      "tag": "Russia",
+      "type": "urltest",
+      "outbounds": [
+        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/2 DELLR630 F03",
+        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/3 DELLR630 F04",
+        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/4 DELLR620 F05",
+        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/0 DELLR620 F01",
+        "🇷🇺 Russia Moscow район Западное Дегунино DataLine Дата-центр NORD 10GE0/0/1 DELLR620 F02"
+      ]
+    },
+    {
+      "tag": "Australia",
+      "type": "urltest",
+      "outbounds": [
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
+        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10"
       ]
     },
     {
