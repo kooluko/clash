@@ -2447,7 +2447,6 @@
         "rule_set": [
           "geoip-cn",
           "geosite-cn"
-          "customized-cn"
         ],
         "outbound": "China"
       }
@@ -2661,13 +2660,6 @@
         "type": "remote",
         "format": "binary",
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/cn.srs",
-        "download_detour": "direct"
-      },
-      {
-        "tag": "customized-cn",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/kooluko/clash/refs/heads/main/cn.list",
         "download_detour": "direct"
       }
     ]
