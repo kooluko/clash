@@ -2662,7 +2662,7 @@
         "format": "binary",
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/cn.srs",
         "download_detour": "direct"
-      }
+      },
       {
         "tag": "customized-cn",
         "type": "remote",
