@@ -2447,6 +2447,7 @@
         "rule_set": [
           "geoip-cn",
           "geosite-cn"
+          "customized-cn"
         ],
         "outbound": "China"
       }
