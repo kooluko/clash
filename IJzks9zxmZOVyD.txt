@@ -330,10 +330,10 @@
       ]
     },
     {
-      "tag": "Bahamut",
+      "tag": "Abema",
       "type": "selector",
       "outbounds": [
-        "TaiWan",
+        "Japan",
         "Proxy"
       ]
     },
