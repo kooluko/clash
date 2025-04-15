@@ -88,39 +88,36 @@
       "outbounds": [
         "auto",
         "direct",
-        "1 忘记登录需联系客服",
-        "1 此计划禁止工作室使用 禁止任何商业使用",
-        "1 请使用全局代理访问官网，非全局会拦截报1020",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
         "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/23 F01",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/10 DELLR650 F02",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/11 DELLR650 F03",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/12 DELLR650 F04",
@@ -260,11 +257,8 @@
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/6 DELLR650 F07",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/7 DELLR650 F08",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/8 DELLR650 F09",
-        "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10",
-        "山东联通临时接入",
-        "🇯🇵 海外接入 日本",
-        "目前暂不提供试用接入 请付费后使用",
-        "纯IPV6接入"
+        "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10"
+
       ]
     },
     {
@@ -611,45 +605,43 @@
       "tag": "Australia",
       "type": "urltest",
       "outbounds": [
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10"
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10"
       ]
     },
     {
       "tag": "Others",
       "type": "selector",
       "outbounds": [
-        "1 忘记登录需联系客服",
-        "1 此计划禁止工作室使用 禁止任何商业使用",
-        "1 请使用全局代理访问官网，非全局会拦截报1020",
+
         "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/23 F01",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/10 DELLR650 F02",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/11 DELLR650 F03",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/12 DELLR650 F04",
@@ -684,49 +676,44 @@
         "🇬🇧 United Kingdom London Borough of Bexley Erith 10GE0/0/16 DELLR650 F07",
         "🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/2 DELLR650 F08",
         "🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/3 DELLR6515 F09",
-        "🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/4 DELLR6515 F10",
-        "山东联通临时接入",
-        "目前暂不提供试用接入 请付费后使用",
-        "纯IPV6接入"
+        "🇬🇧 United Kingdom London Borough of Bexley Erith 25GE0/0/4 DELLR6515 F10"
+
       ]
     },
     {
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "1 忘记登录需联系客服",
-        "1 此计划禁止工作室使用 禁止任何商业使用",
-        "1 请使用全局代理访问官网，非全局会拦截报1020",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
-        "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
+        "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
         "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/23 F01",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
-        "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
-        "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
+        "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
+        "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/10 DELLR650 F02",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/11 DELLR650 F03",
         "🇩🇪 German Hessen Limburg an der Lahn 10GE0/0/12 DELLR650 F04",
@@ -866,11 +853,7 @@
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/6 DELLR650 F07",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/7 DELLR650 F08",
         "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/8 DELLR650 F09",
-        "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10",
-        "山东联通临时接入",
-        "🇯🇵 海外接入 日本",
-        "目前暂不提供试用接入 请付费后使用",
-        "纯IPV6接入"
+        "🇺🇸 United States Washington Seattle EQSE2 100GE0/0/9 DELLR650 F10"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -905,7 +888,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/0 DELLR650 F01",
       "type": "shadowsocks",
       "server": "au01.kkp.wtf",
       "server_port": 38395,
@@ -913,7 +896,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/1 DELLR650 F02",
       "type": "shadowsocks",
       "server": "au02.kkp.wtf",
       "server_port": 38395,
@@ -921,7 +904,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/2 DELLR650 F03",
       "type": "shadowsocks",
       "server": "au03.kkp.wtf",
       "server_port": 38395,
@@ -929,7 +912,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/3 DELLR650 F04",
       "type": "shadowsocks",
       "server": "au04.kkp.wtf",
       "server_port": 38395,
@@ -937,7 +920,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/4 DELLR650 F05",
       "type": "shadowsocks",
       "server": "au05.kkp.wtf",
       "server_port": 38395,
@@ -945,7 +928,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/5 DELLR650 F06",
       "type": "shadowsocks",
       "server": "au06.kkp.wtf",
       "server_port": 38395,
@@ -953,7 +936,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/6 DELLR650 F07",
       "type": "shadowsocks",
       "server": "au07.kkp.wtf",
       "server_port": 38395,
@@ -961,7 +944,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/7 DELLR650 F08",
       "type": "shadowsocks",
       "server": "au08.kkp.wtf",
       "server_port": 38395,
@@ -969,7 +952,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F09",
       "type": "shadowsocks",
       "server": "au09.kkp.wtf",
       "server_port": 38395,
@@ -977,7 +960,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
+      "tag": "🇦🇺 Australia Sydney Mascot EQSY1 25GE0/0/8 DELLR650 F10",
       "type": "shadowsocks",
       "server": "au10.kkp.wtf",
       "server_port": 38395,
@@ -993,7 +976,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/24 DELLR650 F02",
       "type": "shadowsocks",
       "server": "ca02.kkp.wtf",
       "server_port": 38395,
@@ -1001,7 +984,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/25 DELLR650 F03",
       "type": "shadowsocks",
       "server": "ca03.kkp.wtf",
       "server_port": 38395,
@@ -1009,7 +992,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/26DELLR6515 F04",
       "type": "shadowsocks",
       "server": "ca04.kkp.wtf",
       "server_port": 38395,
@@ -1017,7 +1000,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/27 DELLR6515 F05",
       "type": "shadowsocks",
       "server": "ca05.kkp.wtf",
       "server_port": 38395,
@@ -1025,7 +1008,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/28 DELLR6515 F06",
       "type": "shadowsocks",
       "server": "ca06.kkp.wtf",
       "server_port": 38395,
@@ -1033,7 +1016,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/29 DELLR6525 F07",
       "type": "shadowsocks",
       "server": "ca09.kkp.wtf",
       "server_port": 38395,
@@ -1041,7 +1024,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/30 DELLR650 F08",
       "type": "shadowsocks",
       "server": "ca08.kkp.wtf",
       "server_port": 38395,
@@ -1049,7 +1032,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/31 DELLR6615 F09",
       "type": "shadowsocks",
       "server": "ca09.kkp.wtf",
       "server_port": 38395,
@@ -1057,7 +1040,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
+      "tag": "🇨🇦 Canada Quebec Montreal Beauharnois 10GE0/0/32 DELLR6515 F10",
       "type": "shadowsocks",
       "server": "ca10.kkp.wtf",
       "server_port": 38395,
@@ -1065,7 +1048,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/10 DELLR640 F08",
       "type": "shadowsocks",
       "server": "fr08.kkp.wtf",
       "server_port": 38395,
@@ -1073,7 +1056,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/11 DELLR640 F09",
       "type": "shadowsocks",
       "server": "fr09.kkp.wtf",
       "server_port": 38395,
@@ -1081,7 +1064,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/12 DELLR640 F10",
       "type": "shadowsocks",
       "server": "fr10.kkp.wtf",
       "server_port": 38395,
@@ -1089,7 +1072,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/3 DELLR640 F01",
       "type": "shadowsocks",
       "server": "fr01.kkp.wtf",
       "server_port": 38395,
@@ -1097,7 +1080,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/4 DELLR640 F02",
       "type": "shadowsocks",
       "server": "fr02.kkp.wtf",
       "server_port": 38395,
@@ -1105,7 +1088,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/5 DELLR640 F03",
       "type": "shadowsocks",
       "server": "fr03.kkp.wtf",
       "server_port": 38395,
@@ -1113,7 +1096,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/6 DELLR640 F04",
       "type": "shadowsocks",
       "server": "fr04.kkp.wtf",
       "server_port": 38395,
@@ -1121,7 +1104,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/7 DELLR640 F05",
       "type": "shadowsocks",
       "server": "fr05.kkp.wtf",
       "server_port": 38395,
@@ -1129,7 +1112,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/8 DELLR640 F06",
       "type": "shadowsocks",
       "server": "fr06.kkp.wtf",
       "server_port": 38395,
@@ -1137,7 +1120,7 @@
       "password": "OGXndj"
     },
     {
-      "tag": "🇩🇪 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
+      "tag": "🇫🇷 French Hauts-de-France Gravelines 25GE0/0/9 DELLR640 F07",
       "type": "shadowsocks",
       "server": "fr07.kkp.wtf",
       "server_port": 38395,
