@@ -273,7 +273,7 @@
       "default": "America"
     },
     {
-      "tag": "Google",
+      "tag": "Youtube",
       "type": "selector",
       "outbounds": [
         "HongKong",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "tag": "Facebook",
+      "tag": "PrimeVideo",
       "type": "selector",
       "outbounds": [
         "HongKong",
@@ -2238,12 +2238,9 @@
       },
       {
         "rule_set": [
-          "geosite-youtube",
-          "geoip-google",
-          "geosite-google",
-          "geosite-github"
+          "geosite-youtube"
         ],
-        "outbound": "Google"
+        "outbound": "Youtube"
       },
       {
         "rule_set": [
@@ -2261,10 +2258,9 @@
       },
       {
         "rule_set": [
-          "geoip-facebook",
-          "geosite-facebook"
+          "geosite-primevideo"
         ],
-        "outbound": "Facebook"
+        "outbound": "PrimeVideo"
       },
       {
         "rule_set": "geosite-bilibili",
@@ -2327,6 +2323,7 @@
         "rule_set": [
           "geoip-cn",
           "geosite-cn"
+          "geosite-zhihu"
         ],
         "outbound": "China"
       }
@@ -2519,6 +2516,20 @@
         "type": "remote",
         "format": "binary",
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/hbo.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-paypal",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/paypal.srs",
+        "download_detour": "direct"
+      },
+      {
+        "tag": "geosite-zhihu",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/zhihu.srs",
         "download_detour": "direct"
       },
       {
