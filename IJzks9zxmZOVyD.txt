@@ -2322,7 +2322,7 @@
       {
         "rule_set": [
           "geoip-cn",
-          "geosite-cn"
+          "geosite-cn",
           "geosite-zhihu"
         ],
         "outbound": "China"
