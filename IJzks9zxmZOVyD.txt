@@ -267,8 +267,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ],
       "default": "America"
     },
@@ -280,8 +279,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -292,8 +290,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -304,8 +301,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -316,8 +312,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -345,8 +340,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ],
       "default": "America"
     },
@@ -370,8 +364,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -382,8 +375,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -395,8 +387,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -408,8 +399,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -421,8 +411,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -433,8 +422,7 @@
         "TaiWan",
         "Singapore",
         "Japan",
-        "America",
-        "Others"
+        "America"
       ]
     },
     {
@@ -446,7 +434,6 @@
         "Singapore",
         "Japan",
         "America",
-        "Others",
         "direct"
       ]
     },
