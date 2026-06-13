@@ -1,6 +1,4 @@
 
-DOMAIN-SUFFIX,download.windowsupdate.com
-DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,basehk.viewcloud.link
 
 DOMAIN-SUFFIX,115.com
@@ -45,3 +43,50 @@ DOMAIN-SUFFIX,mahjong-jp.net
 DOMAIN-SUFFIX,cn2aws.sanbeiman.com
 DOMAIN-SUFFIX,riichimj.com
 DOMAIN-SUFFIX,hwmaj-client.ap-northeast-1.log.aliyuncs.com
+
+
+# ===========================
+# Microsoft 全量直连（更新/下载/Teams/Outlook）
+# ===========================
+
+# Windows Update / Office 更新
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,officecdn.microsoft.com.edgesuite.net
+
+# OneDrive / SharePoint 下载
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+
+# Teams
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,lync.com
+
+# Outlook（网页版 + API）
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,outlook.live.com
+DOMAIN-SUFFIX,outlook.office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,hotmail.com
+
+# Microsoft 登录（避免代理导致 MFA 卡顿）
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
