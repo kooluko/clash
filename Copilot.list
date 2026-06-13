@@ -1,6 +1,58 @@
+# ===========================
+# Microsoft Copilot 全量代理规则
+# 适用于：OpenClash / Clash / Clash.Meta
+# 作者：Yong 专用优化版
+# ===========================
+
+# --- Copilot 主站（Edge / App / Web） ---
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.microsoft365.com
+DOMAIN-SUFFIX,copilot.office.com
+DOMAIN-SUFFIX,copilot.live.com
+DOMAIN-SUFFIX,copilot.azureedge.net
+
+# --- Office 中的 Copilot（Word / Excel / PPT / Outlook） ---
+DOMAIN-SUFFIX,prod.microsoft365copilot.microsoft.com
+DOMAIN-SUFFIX,assets.microsoft365.com
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,msocdn.com
+
+# --- Bing AI / Edge AI（模型调用） ---
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,api.bing.com
+DOMAIN-SUFFIX,www.bing.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+
+# --- Graph API（Copilot 数据访问核心） ---
+DOMAIN-SUFFIX,graph.microsoft.com
+DOMAIN-SUFFIX,graph.microsoft.us
+DOMAIN-SUFFIX,graph.microsoft.de
+
+# --- 内容安全 / 审查服务（Copilot 必须访问） ---
+DOMAIN-SUFFIX,contentmoderator.cognitive.microsoft.com
+DOMAIN-SUFFIX,cognitiveservices.azure.com
+DOMAIN-SUFFIX,api.cognitive.microsoft.com
+
+# --- 身份验证（Copilot 登录必需） ---
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+
+# --- Windows Copilot / Copilot App ---
+DOMAIN-SUFFIX,windowscopilot.microsoft.com
+DOMAIN-SUFFIX,widgets.microsoft.com
+DOMAIN-SUFFIX,services.windows.com
+
+# --- 其他可能的 Copilot 相关域名（补充） ---
 DOMAIN-SUFFIX,api.msn.com
 DOMAIN-SUFFIX,assets.msn.com
-DOMAIN-SUFFIX,www.bing.com
-DOMAIN-SUFFIX,api.bing.com
-DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
+
+# ===========================
+# END
+# ===========================
