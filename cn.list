@@ -84,9 +84,9 @@ DOMAIN-SUFFIX,lync.com
 #DOMAIN-SUFFIX,hotmail.com
 
 # Microsoft 登录（避免代理导致 MFA 卡顿）
-DOMAIN-SUFFIX,login.microsoftonline.com
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msauthimages.net
-DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msftauthimages.net
+#DOMAIN-SUFFIX,login.microsoftonline.com
+#DOMAIN-SUFFIX,login.live.com
+#DOMAIN-SUFFIX,msauth.net
+#DOMAIN-SUFFIX,msauthimages.net
+#DOMAIN-SUFFIX,msftauth.net
+#DOMAIN-SUFFIX,msftauthimages.net
