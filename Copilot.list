@@ -49,8 +49,7 @@ DOMAIN-SUFFIX,widgets.microsoft.com
 DOMAIN-SUFFIX,services.windows.com
 
 # --- 其他可能的 Copilot 相关域名（补充） ---
-DOMAIN-SUFFIX,api.msn.com
-DOMAIN-SUFFIX,assets.msn.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
 
 # ===========================
