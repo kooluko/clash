@@ -75,13 +75,13 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,lync.com
 
 # Outlook（网页版 + API）
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,outlook.live.com
-DOMAIN-SUFFIX,outlook.office.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,hotmail.com
+#DOMAIN-SUFFIX,outlook.com
+#DOMAIN-SUFFIX,outlook.live.com
+#DOMAIN-SUFFIX,outlook.office.com
+#DOMAIN-SUFFIX,office365.com
+#DOMAIN-SUFFIX,office.com
+#DOMAIN-SUFFIX,live.com
+#DOMAIN-SUFFIX,hotmail.com
 
 # Microsoft 登录（避免代理导致 MFA 卡顿）
 DOMAIN-SUFFIX,login.microsoftonline.com
