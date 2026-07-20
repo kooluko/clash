@@ -71,3 +71,6 @@ DOMAIN-SUFFIX,sharepoint.com
 #DOMAIN-SUFFIX,onedrive.com
 #DOMAIN-SUFFIX,onedrive.live.com
 
+# Teams 
+DOMAIN-SUFFIX,teams.microsoft.com
+
