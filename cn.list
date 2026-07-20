@@ -67,7 +67,7 @@ DOMAIN-SUFFIX,officecdn.microsoft.com.edgesuite.net
 #DOMAIN-SUFFIX,oneclient.sfx.ms
 #DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 #DOMAIN-SUFFIX,sharepoint.com
-#DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,sharepointonline.com
 #DOMAIN-SUFFIX,onedrive.com
 #DOMAIN-SUFFIX,onedrive.live.com
 
