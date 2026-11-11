@@ -1,6 +1,9 @@
 
 DOMAIN-SUFFIX,basehk.viewcloud.link
 
+#DMM graph API
+DOMAIN-SUFFIX,api.video.dmm.co.jp
+
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,gitv.tv
